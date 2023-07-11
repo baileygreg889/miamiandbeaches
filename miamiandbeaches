@@ -1,0 +1,898 @@
+
+
+
+
+<!DOCTYPE html>
+<!--
+  Build: 2023.7.6.271
+  Source: master (1b100d30)
+-->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+
+
+<title>The Official Travel and Tourism site of Greater Miami &amp; Miami Beach | Greater Miami & Miami Beach</title>
+
+<link rel="canonical" href="https://www.miamiandbeaches.com/" />
+
+    <link rel="alternate" hreflang="en-us" href="https://www.miamiandbeaches.com/" />
+    <link rel="alternate" hreflang="es-es" href="https://www.miamiandbeaches.lat/" />
+    <link rel="alternate" hreflang="ht-ht" href="https://www.miamiandbeaches.ht/" />
+    <link rel="alternate" hreflang="pt-pt" href="https://www.miamiandbeaches.world/" />
+    <link rel="alternate" hreflang="de-de" href="https://www.miamiandbeaches.de/" />
+    <link rel="alternate" hreflang="fr-fr" href="https://www.miamiandbeaches.fr/" />
+    <link rel="alternate" hreflang="it-it" href="https://www.miamiandbeaches.it/" />
+    <link rel="alternate" hreflang="ru-ru" href="https://www.miamiandbeaches.ru/" />
+    <link rel="alternate" hreflang="zh-cn" href="https://www.miamiandbeaches.cn/" />
+
+
+<meta name="description" content="Official Greater Miami &amp; Miami Beach website. Discover where to stay and what to do on a Miami vacation. Explore the diverse tapestry of experiences Miami has to offer when planning your next visit." />
+<meta name="keywords" content="" />
+
+<meta property="og:site_name" content="Greater Miami &amp; Miami Beach" />
+<meta property="og:title" content="The Official Travel and Tourism site of Greater Miami &amp; Miami Beach" />
+<meta property="og:description" content="Official Greater Miami &amp; Miami Beach website. Discover where to stay and what to do on a Miami vacation. Explore the diverse tapestry of experiences Miami has to offer when planning your next visit." />
+<meta property="og:url" content="https://www.miamiandbeaches.com/" />
+<meta property="og:image" content="" />
+<meta property="og:type" content="website" />
+
+<meta name="twitter:site" value="@visitmiami" />
+<meta name="twitter:title" value="The Official Travel and Tourism site of Greater Miami &amp; Miami Beach" />
+<meta name="twitter:card" value="summary" />
+
+
+
+
+    <!-- Google Optimize -->
+    <script src="https://www.googleoptimize.com/optimize.js?id=GTM-N6HV99B"></script>
+    <!-- End Google Optimize -->
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TTM86HN');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google Ad Manager - GPT tag -->
+    <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+    <!-- End Google Ad Manager - GPT tag -->
+
+    <!-- Google Maps API -->
+    <script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({key:"AIzaSyDHWSVOCOv3Z7Kki8ldL6LtF0JmxSRIsbY",v:"weekly"});</script>
+    <!-- End Google Maps API -->
+
+    <!-- OneTrust Cookies Consent Notice -->
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="80aba389-e542-48e6-9380-885da03f075a"></script>
+    <script type="text/javascript">function OptanonWrapper() { }</script>
+    <!-- End OneTrust Cookies Consent Notice -->
+
+    <!-- Start Google Ad Manager -->
+    <script>
+        window.googletag = window.googletag || {cmd: []};
+            googletag.cmd.push(function() {
+            googletag.defineSlot('/114645642/SECT_OTHER_300x250', [300, 250], 'div-gpt-ad-1674853035952-0').setTargeting('ad-position', ['medium-rectangle_1']).addService(googletag.pubads());
+            googletag.defineSlot('/114645642/SECT_OTHER_300x250', [300, 250], 'div-gpt-ad-1674853035952-1').setTargeting('ad-position', ['medium-rectangle_2']).addService(googletag.pubads());
+            googletag.pubads().setTargeting('site-section', ['']);
+            googletag.pubads().setTargeting('domain', ['www.miamiandbeaches.com']);
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <!-- End Google Ad Manager -->
+
+    <link rel="stylesheet" href="/css/dist/main.min.css?v=TCGilUbqYDg57gFjUYgJ5VgM7sIL9hXq173-THUiCUU" />
+    <style>
+        :root,
+        :root:after,
+        :root:before{
+            --ys-color-primary: #354D92;
+            --ys-color-primary-medium: #E27247;
+            --ys-color-primary-variant: #354D92;
+            --ys-color-secondary: #E5136C;
+            --ys-color-secondary-variant: #E5136C;
+            --ys-color-accent: #1C91A7;
+            --ys-color-accent-light: #EAC32E;
+            --ys-color-accent-light-60: #f7e7ab;
+        }
+        body.miami-destination,
+        body.miami-destination :after,
+        body.miami-destination :before {
+            --ys-color-primary: #354D92;
+            --ys-color-primary-medium: #E27247;
+            --ys-color-primary-variant: #354D92;
+            --ys-color-secondary: #E5136C;
+            --ys-color-secondary-variant: #E5136C;
+            --ys-color-accent: #1C91A7;
+            --ys-color-accent-light: #EAC32E;
+            --ys-color-accent-light-60: #f7e7ab;
+        }
+    </style>
+    <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+    <script src="https://media.threshold360.com/v2/threshold-viewer.js"></script>
+    <script src="https://media.threshold360.com/map.js"></script>
+    <script src="https://platform-api.sharethis.com/js/sharethis.js#property=597740c3a1c36a0011f0f154&amp;product=custom-share-buttons"></script>
+    <script src="/js/dist/global.min.js?v=g4AVSirBlx0bNVJoDNcr1Rwzp7AQobGuPRutqU7u6yg"></script>
+
+
+    
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=f4fed1f0-c717-42ff-9ce5-c85977f77c0b;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/'
+}});</script></head>
+
+<body class="miami-destination">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTM86HN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+<section class="content gmc-banner_wrapper" style="position: sticky; top: 0; z-index: 9999;">
+</section>
+
+<script>
+    function closeBanner(banner){
+        document.getElementById(banner).style.display = "none";
+    }
+</script>
+
+
+    
+
+
+
+<script src="/js/dist/vue/apps/main-navigation/index.min.js?v=PjYgB4Ph_1-nspsyhn83qFVZVfgKDRi0KX8yNJ4NfUc"></script>
+<script>
+    (function() {
+        var event =
+            new CustomEvent(
+                'main-navigation-initialize',
+                {
+                    detail: {
+                        model: {"apiKey":"08bbc181e65b799cb34162e4de5bb3fb","appId":"Y72ZZU5PH1","indexName":"prd-item","mainNavigation":{"linkGroups":[{"title":"Explore","promoBoxTitle":"","promoBoxUrl":"","promoBoxImage":"","showPromoBox":false,"links":[],"linkGroups":[{"title":"Things to Do","promoBoxTitle":"Multicultural Miami","promoBoxUrl":"/things-to-do/multicultural-miami","promoBoxImage":"/getmedia/10c6c439-4444-4997-bfbe-4bf52f42c843/viernes-culturales-dancer-1440x900.jpg","showPromoBox":true,"links":[{"title":"See All Things to Do","url":"/things-to-do"},{"title":"Nightlife","url":"/things-to-do/nightlife"},{"title":"Arts \u0026 Culture","url":"/things-to-do/art-and-culture"},{"title":"Outdoor Experiences","url":"/things-to-do/outdoor-activities"},{"title":"Attractions","url":"/things-to-do/attractions"},{"title":"Shopping","url":"/things-to-do/shopping"},{"title":"Beaches","url":"/things-to-do/beaches"},{"title":"Spa \u0026 Wellness","url":"/things-to-do/spa-wellness"},{"title":"Cruise ","url":"/things-to-do/cruising-from-miami"},{"title":"Sports","url":"/things-to-do/sports"},{"title":"History","url":"/things-to-do/history-and-heritage"},{"title":"Tours \u0026 Excursions","url":"/things-to-do/tours-excursions"},{"title":"Multicultural","url":"/things-to-do/multicultural-miami"},{"title":"Water Activities","url":"/things-to-do/water-sports"}],"linkGroups":[]},{"title":"Neighborhoods","promoBoxTitle":"View All Neighborhoods","promoBoxUrl":"/neighborhoods","promoBoxImage":"/getmedia/467f3ab5-22ec-437b-b4e6-523975aa22e8/hero-littlehavanabc-1440x900.jpg","showPromoBox":true,"links":[{"title":"Miami Beach","url":"/neighborhoods/Miami-Beach"},{"title":"Key Biscayne","url":"/neighborhoods/key-biscayne"},{"title":"Downtown Miami/Brickell","url":"/neighborhoods/downtown-miami-brickell-area"},{"title":"Little Haiti","url":"/neighborhoods/little-haiti"},{"title":"Allapattah","url":"/neighborhoods/allapattah"},{"title":"Little Havana","url":"/neighborhoods/little-havana"},{"title":"Aventura","url":"/neighborhoods/aventura"},{"title":"Miami Design District","url":"/neighborhoods/miami-design-district"},{"title":"Bal Harbour","url":"/neighborhoods/bal-harbour"},{"title":"Miami Gardens","url":"/neighborhoods/miami-gardens"},{"title":"Coconut Grove","url":"/neighborhoods/coconut-grove"},{"title":"Miami Springs","url":"/neighborhoods/miami-springs"},{"title":"Coral Gables","url":"/neighborhoods/coral-gables"},{"title":"North Miami Beach Area","url":"/neighborhoods/north-miami-beach-area"},{"title":"Doral","url":"/neighborhoods/doral"},{"title":"South Dade","url":"/neighborhoods/south-dade"},{"title":"Everglades Area","url":"/neighborhoods/everglades-area"},{"title":"Surfside","url":"/neighborhoods/surfside"},{"title":"Hialeah","url":"/neighborhoods/Hialeah-Hialeah-Gardens"},{"title":"Sunny Isles Beach","url":"/neighborhoods/sunny-isles-beach"},{"title":"Historic Overtown","url":"/neighborhoods/historic-overtown"},{"title":"Wynwood","url":"/neighborhoods/wynwood"}],"linkGroups":[]},{"title":"Travel Interests","promoBoxTitle":"Sustaining Paradise","promoBoxUrl":"/travel-interests/green-miami","promoBoxImage":"/getmedia/0bc680b3-ab3a-4690-a1f4-4aa138f31fde/South-Beach-Fisher-Island-aerial-1440x900.jpg","showPromoBox":true,"links":[{"title":"See All Travel Interests","url":"/travel-interests"},{"title":"Pet Friendly Travel","url":"/travel-interests/pet-friendly-travel"},{"title":"Accessible Travel","url":"/travel-interests/accessible-travel-in-miami"},{"title":"Outdoor Explorer","url":"/travel-interests/Outdoor-Explorer"},{"title":"Family Friendly","url":"/travel-interests/family-fun-guides"},{"title":"Sustainable Miami","url":"/travel-interests/green-miami"},{"title":"Indulgent Experiences","url":"/travel-interests/indulgent-experiences"},{"title":"Relaxing Getaway","url":"/travel-interests/relaxing-getaway"},{"title":"LGBTQ\u002B Travel","url":"/travel-interests/lgbtq-miami"},{"title":"Multicultural Miami","url":"/things-to-do/multicultural-miami"}],"linkGroups":[]},{"title":"Plan Your Trip","promoBoxTitle":"Things to do while you visit","promoBoxUrl":"/things-to-do","promoBoxImage":"","showPromoBox":false,"links":[{"title":"See All Plan Your Trip","url":"/plan-your-trip"},{"title":"Transportation","url":"/plan-your-trip/transportation"},{"title":"eNewsletter Signup","url":"/forms/newsletter"},{"title":"Vacation Planning Guide Order Form","url":"/plan-your-trip/official-miami-guides"},{"title":"International Travel","url":"/plan-your-trip/international-resources"},{"title":"Visitor Centers","url":"/plan-your-trip/visitor-centers"},{"title":"Miami Itineraries","url":"/plan-your-trip/miami-itineraries"},{"title":"Weather","url":"/plan-your-trip/weather"},{"title":"Plan a Miami Event","url":"/plan-your-trip/event-planning"},{"title":"Webcams","url":"/plan-your-trip/miami-webcams"}],"linkGroups":[]}]},{"title":"Places To Stay","promoBoxTitle":"Hotels With Amazing Pools","promoBoxUrl":"/hotels/hotels-with-amazing-pools-on-miami-beach","promoBoxImage":"/getmedia/405e0028-f390-4076-933f-8743391615a4/1-Hotel-South-Beach_pool_daytime_1440x900.jpg?width=800\u0026resizemode=force","showPromoBox":true,"links":[{"title":"Explore All Hotels","url":"/hotels"},{"title":"Boutique Hotels","url":"/hotels/boutique-hip-hotels"},{"title":"Beachfront Hotels","url":"/hotels/beachfront-hotels"},{"title":"Extended Stay Hotels","url":"/hotels/extended-stay-hotels"},{"title":"Resort Hotels","url":"/hotels/miami-resort-hotels"},{"title":"Luxury Hotels","url":"/hotels/miami-luxury-hotels"}],"linkGroups":[]},{"title":"Eat \u0026 Drink","promoBoxTitle":"Best Outdoor Restaurants in Miami","promoBoxUrl":"/restaurants/best-outdoor-restaurants-in-miami","promoBoxImage":"/getmedia/7ded0e0f-bf5f-483c-9f43-35b9173dc2c5/mandarin-oriental-la-mar-outside-1440x900.jpg?width=800\u0026resizemode=force","showPromoBox":true,"links":[{"title":"Restaurants","url":"/restaurants"},{"title":"Bars \u0026 Lounges","url":"/restaurants/bars-and-lounges"},{"title":"Craft Beer \u0026 Breweries","url":"/restaurants/craft-beer-and-breweries"}],"linkGroups":[]},{"title":"Events","promoBoxTitle":"","promoBoxUrl":"","promoBoxImage":"","showPromoBox":false,"links":[{"title":"Find Miami Events","url":"/events"},{"title":"Annual Events","url":"/events/annual-events"},{"title":"Hottest Events in July","url":"/events/miami-events-in-july"}],"linkGroups":[]},{"title":"Deals","promoBoxTitle":"Plan Your Spa Date","promoBoxUrl":"/deals/temptations/spa-months","promoBoxImage":"/getmedia/bce8afc7-7d4a-4202-979b-92a208417483/New-Spa-Hero-1920x600.jpg?width=1000\u0026resizemode=force","showPromoBox":true,"links":[{"title":"See All Miami Deals","url":"/deals"},{"title":"Hotel Deals","url":"/deals/miami-hotel-deals"},{"title":"Miami Temptations","url":"/deals/temptations"}],"linkGroups":[]}]},"auxiliaryNavigation":{"links":[{"title":"Visitors","url":"/"},{"title":"Meeting Planners","url":"/miami-meetings"},{"title":"GMCVB Partners","url":"/gmcvb-partners"},{"title":"Travel Professionals","url":"/travel-professionals"},{"title":"Press \u0026 Media","url":"/press-and-media"}],"dropdownLinks":[{"title":"About GMCVB","url":"/about-gmcvb"},{"title":"Advertising Opportunities","url":"/gmcvb-partners/tools-resources/advertising-opportunities"},{"title":"Black Hospitality Initiative (BHI)","url":"/about-gmcvb/bhi"},{"title":"Business Relocation","url":"/plan-your-trip/miami-business-relocation"},{"title":"Partner Extranet Login","url":"https://miamifl.extranet.simpleviewcrm.com/login/#/login"}]}},
+                        currentLanguage: "English",
+                        currentPath: "/"
+                    }
+                }
+            );
+
+        document.dispatchEvent(event);
+    })();
+</script>
+
+
+    
+
+
+    <main id="mainContent">
+        
+
+
+<section class="content">
+    <script src="/js/dist/vue/apps/landing/index.min.js?v=BW40ATyveYbA1miWyOJlTKQqTFWvTOnqGiRTyhgniGU"></script>
+    <script>
+        (function() {
+            var event =
+                new CustomEvent(
+                    'landing-initialize',
+                    {
+                        detail: {
+                            landingData: {"favoriteId":"7f9d53b3-b198-4d49-b920-7b556a2394d7","heroImageAlt":"","heroImageCaption":"","heroImageCredits":"","heroVideoId":"8ie66ztvjx","campaignImageAlt":"","campaignImageLocation":"","eyebrow":"","heading":"We Look Forward To Welcoming You","subheading":"","showToolbar":false,"content":"","truncatedWordCount":100,"images":[]}
+                        }
+                    }
+                );
+
+            document.dispatchEvent(event);
+        })();
+    </script>
+    <div>
+        <div>
+    
+
+
+
+
+
+<section class="content">
+    <div class="ys-highlighted-content-widget">
+        <div class="ys-highlighted-content-widget__container w-100 mx-auto">
+            <div class="ys-highlighted-content-widget__container__wrapper w-100 mx-auto">
+                <div class="ys-highlighted-content-widget__container__wrapper__highlighted-content-info w-100">
+                    <h2>What&#x27;s Hot</h2>
+                </div>
+                <div class="ys-cards-grid mt-40">
+                    <div class="ys-cards-grid__wrapper w-100 mx-auto">
+                        <div class="ys-cards-grid__wrapper__cards d-grid mt-40">
+                                <article class="ys-card mb-40">
+                                    <div class="ys-card__image">
+                                        <span class="ys-card__badge ys-card__badge-favoritable" data-favorite-id="9e7b74eb-0e11-49bf-ad85-726e9ad6756d" data-favorite-type="card"></span>
+                                        <div class="ys-card__favorite-added">
+                                            <span class="ys-icon ys-icon-heart"></span>
+                                            <span class="favorite-text">Added to your favorites</span>
+                                        </div>
+                                        <figure class="ys-image">
+                                            <img alt="Aerial view of Miami Beach" src="/getmedia/ef491775-4bae-4a7b-acb8-04ab58c77218/miami-beach-aerial-1440x900.jpg?width=600&amp;resizemode=force">
+                                        </figure>
+                                    </div>
+                                    <div class="ys-card__body">
+                                        <div class="ys-card__header">
+                                            <h4>Sustaining Paradise</h4>
+                                        </div>
+                                        <a class="ys-card__text mt-0" href="/travel-interests/green-miami">In Miami, we take stewardship of this precious ecosystem seriously. We want to ensure that visitors will enjoy Miami’s unique beauty for many generations to come.</a>
+                                    </div>
+                                </article>
+                                <article class="ys-card mb-40">
+                                    <div class="ys-card__image">
+                                        <span class="ys-card__badge ys-card__badge-favoritable" data-favorite-id="c5754e68-607e-4d05-ba90-733b76dda7bb" data-favorite-type="card"></span>
+                                        <div class="ys-card__favorite-added">
+                                            <span class="ys-icon ys-icon-heart"></span>
+                                            <span class="favorite-text">Added to your favorites</span>
+                                        </div>
+                                        <figure class="ys-image">
+                                            <img alt="Downtown Miami Skyline in Rainbow Lights" src="/getmedia/e2f708be-53a3-45a3-b382-50355f0821cb/LGBT-Downtown-Miami-skyline-1440x900.jpeg?width=600&amp;resizemode=force">
+                                        </figure>
+                                    </div>
+                                    <div class="ys-card__body">
+                                        <div class="ys-card__header">
+                                            <h4>Celebrate Pride Month in Miami</h4>
+                                        </div>
+                                        <a class="ys-card__text mt-0" href="/travel-interests/lgbtq-miami/rainbow-spring"><p>Get in on the festivities in this year's Pride Month celebrations in Miami. &nbsp;</p></a>
+                                    </div>
+                                </article>
+                                <article class="ys-card mb-40">
+                                    <div class="ys-card__image">
+                                        <span class="ys-card__badge ys-card__badge-favoritable" data-favorite-id="4b61e071-7663-4e32-b154-21704480e0b5" data-favorite-type="card"></span>
+                                        <div class="ys-card__favorite-added">
+                                            <span class="ys-icon ys-icon-heart"></span>
+                                            <span class="favorite-text">Added to your favorites</span>
+                                        </div>
+                                        <figure class="ys-image">
+                                            <img alt="Red White &amp; Blue Starfish" src="/getmedia/2eda678f-579d-4c47-8dec-dc692089ac7a/july-4th-miami-beach-1440x900.jpg?width=600&amp;resizemode=force">
+                                        </figure>
+                                    </div>
+                                    <div class="ys-card__body">
+                                        <div class="ys-card__header">
+                                            <h4>Miami&#x27;s Hottest Events in July</h4>
+                                        </div>
+                                        <a class="ys-card__text mt-0" href="/events/miamis-hottest-july-events">July events sizzle in Miami, with music festivals, July 4th parties and deep discounts at local spas and hotels.</a>
+                                    </div>
+                                </article>
+                                <article class="ys-card mb-40">
+                                    <div class="ys-card__image">
+                                        <span class="ys-card__badge ys-card__badge-favoritable" data-favorite-id="8fc6f910-38ef-4c0f-95af-41c1b625993a" data-favorite-type="card"></span>
+                                        <div class="ys-card__favorite-added">
+                                            <span class="ys-icon ys-icon-heart"></span>
+                                            <span class="favorite-text">Added to your favorites</span>
+                                        </div>
+                                        <figure class="ys-image">
+                                            <img alt="pool, coconut, towel" src="/getmedia/0eddf0cf-2eb0-4e3f-8cca-eb51c361b32e/hotel-months-1920x600.jpg?width=600&amp;resizemode=force">
+                                        </figure>
+                                    </div>
+                                    <div class="ys-card__body">
+                                        <div class="ys-card__header">
+                                            <h4>Miami Hotel Months</h4>
+                                        </div>
+                                        <a class="ys-card__text mt-0" href="/deals/temptations/hotel-months">June - September | Take advantage of special family packages, earn resort credits, enjoy luxury amenities, complimentary meals, and more.</a>
+                                    </div>
+                                </article>
+                                <article class="ys-card mb-40">
+                                    <div class="ys-card__image">
+                                        <span class="ys-card__badge ys-card__badge-favoritable" data-favorite-id="43e5ad45-2247-4537-b0ed-f8c05553640c" data-favorite-type="card"></span>
+                                        <div class="ys-card__favorite-added">
+                                            <span class="ys-icon ys-icon-heart"></span>
+                                            <span class="favorite-text">Added to your favorites</span>
+                                        </div>
+                                        <figure class="ys-image">
+                                            <img alt="spa rocks towel" src="/getmedia/bce8afc7-7d4a-4202-979b-92a208417483/New-Spa-Hero-1920x600.jpg?width=600&amp;resizemode=force">
+                                        </figure>
+                                    </div>
+                                    <div class="ys-card__body">
+                                        <div class="ys-card__header">
+                                            <h4>Miami Spa Months</h4>
+                                        </div>
+                                        <a class="ys-card__text mt-0" href="/deals/temptations/spa-months">July - August | Treat your mind, body, and soul to some well-deserved pampering during Miami Spa Months.</a>
+                                    </div>
+                                </article>
+                                <article class="ys-card mb-40">
+                                    <div class="ys-card__image">
+                                        <span class="ys-card__badge ys-card__badge-favoritable" data-favorite-id="a158ce17-1a75-4a0b-a9d8-e771c5e84912" data-favorite-type="card"></span>
+                                        <div class="ys-card__favorite-added">
+                                            <span class="ys-icon ys-icon-heart"></span>
+                                            <span class="favorite-text">Added to your favorites</span>
+                                        </div>
+                                        <figure class="ys-image">
+                                            <img alt="Close-up view of microphone in recording studio" src="/getmedia/756cff6f-1bc8-44b5-b20e-b83830474919/Art_of_Black_Miami_Podcast_Hero_1440x900.jpg?width=600&amp;resizemode=force">
+                                        </figure>
+                                    </div>
+                                    <div class="ys-card__body">
+                                        <div class="ys-card__header">
+                                            <h4>Art of Black Miami Podcast Series</h4>
+                                        </div>
+                                        <a class="ys-card__text mt-0" href="/things-to-do/art-and-culture/art-of-black/art-of-black-miami-podcast">Meet Miami-based artists as they share their unique experiences and artistic expression influenced by Miami’s cultural landscape, rich heritage and mosaic neighborhoods.</a>
+                                    </div>
+                                </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+
+
+
+
+
+<section class="content">
+    <div class="ys-secondary-widget">
+        <div class="ys-secondary-widget__content">
+            <p class="ys-eyebrow-hero">It&#x27;s Official!</p>
+            <h2>Miami is bon app&#xE9;tit&#x27;s Food City of the Year</h2>
+            <p class="ys-subheading mb-4">&amp; we couldn&#x27;t agree more</p>
+            <div class="ys-secondary-widget__content__copy use-inline-links p">
+                <p><a class="no-line" href="https://www.bonappetit.com/sponsored/story/its-official-miami-is-the-culinary-destination-in-the-us"><img src="/getmedia/69559113-5127-4ea2-ae5b-9c4c68d69332/BA_Greater-Miami_COTY-Seal_FINAL.png?width=250" alt="bon appetit names Miami Food City of the Year" title="bon appetit names Miami Food City of the Year" class="fr-fic fr-dib"></a></p>
+            </div>
+                <div class="ys-secondary-widget__content__buttons">
+                        <a class="ys-btn ys-btn--sm" href="https://www.bonappetit.com/sponsored/story/its-official-miami-is-the-culinary-destination-in-the-us">Learn More</a>
+                </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+
+
+
+
+
+<section class="content">
+    <div class="ys-secondary-widget">
+        <div class="ys-secondary-widget__content">
+            <p class="ys-eyebrow-hero"></p>
+            <h2>Trip Inspiration</h2>
+            <p class="ys-subheading mb-4"></p>
+            <div class="ys-secondary-widget__content__copy use-inline-links p">
+                <style>
+#story3  .ms-player-scrollable-area{
+  overflow-x:hidden;
+}
+.ys-secondary-widget__content{max-width:64.938rem !important;margin: 3.75rem 1.25rem} 
+.mainDiv{min-width:240px !important} 
+.poster{width:240px !important; height:340px !important}
+@media (max-width: 550px){
+.ys-secondary-widget__content{max-width:17rem !important} 
+}
+</style>
+<div id="ms-story-player7ef6ae2a6f76"><style>#mss3 * { box-sizing: border-box; } .mpsa {scroll-behavior: smooth;display: flex;flex-wrap: nowrap;max-width: 100%;overflow-x: auto;overflow-y: hidden;padding: 15px;height: auto} #mss3::-webkit-scrollbar {width: 0;height: 0} #mss3 .msmd::after { content: '';position: absolute;top: 0;left: 0;height: 230px;width: 100px;background: linear-gradient(to right,#e6e6e6, rgba(255,255,255,0.5), #e6e6e6);overflow: hidden;animation: shimmer 1.5s ease infinite;} @keyframes shimmer { 0% {left: -150px} 100%{left: 150px}} #mss3 .msmd { position: relative;margin: 0 13px 0 0;min-width: 173px;cursor: pointer;height: 230px;width: 173px;border-radius: 15px;background: #e6e6e6;overflow: hidden}</style><div id="msfb" ></div><script>document.querySelector("#msfb").innerHTML = `<div  id="mss3" class="mpsa"><div class="msmd "></div><div class="msmd "></div><div class="msmd "></div><div class="msmd "></div><div class="msmd "></div><div class="msmd "></div><div class="msmd "></div><div class="msmd "></div><div class="msmd "></div><div class="msmd "></div></div>`;</script></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+
+
+
+
+
+
+
+<section class="content">
+    <script type="application/json">
+            {"eyebrow":"","heading":"Discover Miami \u0026 Miami Beach","subheading":"","content":"","randomize":false,"images":[],"videos":[{"id":"b1f28e4d-ed84-47fd-bbd1-d07a260a84d4","type":"Video","title":"Find Your Wave","description":"Indulge your imagination as you explore the best Miami Beach has to offer.","videoId":"YCdigroxHxI","videoType":"YouTube","videoUrl":"https://www.youtube.com/embed/YCdigroxHxI","previewUrl":"https://img.youtube.com/vi/YCdigroxHxI/0.jpg"},{"id":"d029d60b-342c-4704-8fd3-59d393c8f2c2","type":"Video","title":"Miami - A Destination Like No Other","description":"","videoId":"ZYWD700RsRU","videoType":"YouTube","videoUrl":"https://www.youtube.com/embed/ZYWD700RsRU","previewUrl":"https://img.youtube.com/vi/ZYWD700RsRU/0.jpg"},{"id":"9427afe7-8aed-4018-9be1-b52b932a6e08","type":"Video","title":"South Beach Like a Local","description":"","videoId":"z0UlgnIzYjs","videoType":"YouTube","videoUrl":"https://www.youtube.com/embed/z0UlgnIzYjs","previewUrl":"/getmedia/7f5457c3-1b5c-4d9a-adaf-a5ab450b8bc2/South-Beach.jpg?width=1000\u0026resizemode=force"},{"id":"2767ac6d-eedc-4e61-9e04-935cda2b521a","type":"Video","title":"Downtown Miami Discoveries","description":"","videoId":"8ZTUWkkunrc","videoType":"YouTube","videoUrl":"https://www.youtube.com/embed/8ZTUWkkunrc","previewUrl":"/getmedia/dbb7aaca-a01f-40fc-b79f-ff4e0fd22a2c/Downtown-jpg.png?width=1000\u0026resizemode=force"},{"id":"39f3d0c2-a982-488d-ba52-62d36ab5b7d5","type":"Video","title":"Getting Creative in Wynwood","description":"","videoId":"lKKchctJPL0","videoType":"YouTube","videoUrl":"https://www.youtube.com/embed/lKKchctJPL0","previewUrl":"/getmedia/a838fd14-319f-46fe-aafc-e913a92f05f5/Wynwood-jpg.png?width=1000\u0026resizemode=force"}]}
+        </script>
+    <script src="/js/dist/vue/apps/media/index.min.js?v=KCTG5-aYvHJbYQYgRsM3d2oE7XGDOjBDE0DjKUG3AyQ"></script>
+</section>
+
+    
+
+
+
+
+
+
+
+
+
+<section class="content">
+    <script type="application/json">
+        {"eyebrow":"","heading":"Miami \u0026 Miami Beach Webcams","subheading":"","content":"","webcams":[{"title":"Miami Beach - 1st Street","description":"Shift your perspective when you arrive in chic, sunny South Beach. Hosted by Hilton Bentley Hotel. ","feedUrl":"\thttps://relay.ozolio.com/pub.api?cmd=iframe\u0026oid=CID_BYFV00001024\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/l/hotel/hilton-bentley-miamisouth-beach/23","preview":"/getmedia/5c5f7367-eb91-49ee-bcb8-3621aca34466/HiltonBentley.jpg?width=300\u0026resizemode=force","link":{"text":"Hilton Bentley Hotel","url":"/l/hotels/hilton-bentley-miami-south-beach/23"}},{"title":"Biscayne Bay - Downtown Miami","description":"Glittering views of Biscayne Bay, one of Greater Miami\u0027s most prized waterways. Hosted by the DoubleTree by Hilton Grand Hotel Biscayne Bay.","feedUrl":"https://relay.ozolio.com/pub.api?cmd=iframe\u0026oid=CID_YEIK00001029\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/l/hotels/doubletree-by-hilton-grand-hotel-biscayne-bay-miami/1470","preview":"/getmedia/f1e05316-95ac-47bd-8a21-27a53e4baa1e/double-tree_2.jpg?width=300\u0026resizemode=force","link":{"text":"Doubletree Grand","url":"/l/hotels/doubletree-by-hilton-grand-hotel-biscayne-bay-miami/1470"}},{"title":"Ocean Drive - Miami Beach","description":"See the famed Ocean Drive in the heart of Miami Beach\u0027s Art Deco Historic District. Hosted by the Avalon Hotel.","feedUrl":"https://relay.ozolio.com/pub.api?cmd=iframe\u0026oid=CID_NSIT00001047\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/l/hotel/avalon-hotel/1838","preview":"/getmedia/492b672b-b502-48ba-9e88-515dfd005bcd/Ocean_Drive_webcam.jpg?width=300\u0026resizemode=force","link":{"text":"Avalon Hotel","url":"/l/hotels/avalon-hotel/1838"}},{"title":"Little Havana - Calle Ocho","description":"Arts, dining and entertainment in the heart of Little Havana, one of Greater Miami\u0027s most vibrant neighborhoods. ","feedUrl":"https://relay.ozolio.com/pub.api?cmd=embed\u0026oid=EMB_KQOD00000D77\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/l/restaurants/ball-and-chain/5700","preview":"/getmedia/9693fbde-1c30-4c4a-965e-530b6eadaab9/CalleOcho-Webcam_1.jpg?width=300\u0026resizemode=force","link":{"text":"Ball \u0026 Chain","url":"https://www.miamiandbeaches.com/l/restaurants/ball-and-chain/5700"}},{"title":"Coconut Grove","description":"Sailboats and other watercraft decorate the view in Coconut Grove\u0027s aptly-named Sailboat Bay. Hosted by Hotel Arya.","feedUrl":"https://relay.ozolio.com/pub.api?cmd=iframe\u0026oid=CID_WJTE00001335\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/neighborhoods/coconut-grove","preview":"/getmedia/a839e819-d956-485b-b429-b6705e4bb483/coconut-grove-webcam.jpg?width=300\u0026resizemode=force","link":{"text":"Explore Coconut Grove","url":"/neighborhoods/coconut-grove"}},{"title":"Sunny Isles Beach","description":"Relax and take in the tropical splendor of Sunny Isles Beach. ","feedUrl":"https://relay.ozolio.com/pub.api?cmd=iframe\u0026oid=CID_ZRWO00000FCA\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/l/hotel/acqualina-resort-residences-on-the-beach/10","preview":"/getmedia/cbf3a0ba-9934-428b-9911-11d26f6570e9/Sunny-Isles-Acqualine.jpg?width=300\u0026resizemode=force","link":{"text":"Acqualina Resort \u0026 Residences","url":"/l/hotels/acqualina-resort-and-residences-on-the-beach/10"}},{"title":"Sunny Isles Beach South","description":"Step on to the beach, wade in the water or fish from Newport Pier in Sunny Isles Beach.","feedUrl":"https://relay.ozolio.com/pub.api?cmd=iframe\u0026oid=CID_RPAY00000FA2\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/neighborhoods/sunny-isles-beach","preview":"/getmedia/f9f17d31-db6c-4690-ab5d-56989e0b26ad/Sunny-Isles-pier-webcam.jpg?width=300\u0026resizemode=force","link":{"text":"Newport Beach","url":"/neighborhoods/sunny-isles-beach"}},{"title":"Miami Beach - 21st Street","description":"Wide-open views of the Miami Beach shoreline from the W Hotel.","feedUrl":"https://relay.ozolio.com/pub.api?cmd=embed\u0026oid=EMB_QHQT0000039A\u0026home_url=https://www.miamiandbeaches.com/l/hotel/w-south-beach/488","preview":"/getmedia/dac6899a-251c-49bd-b5e8-e2a5d07f5039/miami-beach-21st.jpg?width=300\u0026resizemode=force","link":{"text":"Explore the W Hotel","url":"/l/hotels/w-south-beach/488"}},{"title":"Bayfront Park - Downtown Miami","description":"Panoramic views of Bayfront Park, the Skyviews Miami Observation Wheel at Bayfront Park, the American Airlines Arena, the Frost Museum of Science and Perez Art Museum.","feedUrl":"https://relay.ozolio.com/pub.api?cmd=iframe\u0026oid=CID_YMSW0000102E\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/l/hotel/intercontinental-miami/1699","preview":"/getmedia/e2274fb3-2b30-4af9-b221-6655c9a0cfb5/Intercontinental-webcam.jpg?width=300\u0026resizemode=force","link":{"text":"Intercontinental Miami Hotel","url":"https://www.miamiandbeaches.com/l/hotels/intercontinental-miami/1699"}},{"title":"Lincoln Road - Miami Beach","description":"Shop, dine and celebrate good times at Miami Beach\u0027s legendary outdoor Lincoln Road Mall. ","feedUrl":"\thttps://relay.ozolio.com/pub.api?cmd=iframe\u0026oid=CID_XQYU00000FB6\u0026app_mode=control\u0026home_url=https://www.miamiandbeaches.com/neighborhoods/south-beach","preview":"/getmedia/68c7c622-7bd8-4b14-acb6-bde3b0470a83/Lincoln-road-webcam.jpg?width=300\u0026resizemode=force","link":{"text":"Miami Beach","url":"/neighborhoods/south-beach"}}]}
+    </script>
+    <script src="/js/dist/vue/apps/webcams/index.min.js?v=K9pBSLaUOadEPUGpqAEXm_-twhSzt1cOP3oRL4QIRtI"></script>
+</section>
+
+    
+
+
+
+
+
+
+
+
+<section class="content">
+    <div class="gmc-promo-widget">
+        <div class="gmc-promo-widget__container mediaCase">
+                <div class="gmc-promo-widget__container__media mb-5">
+                        <picture class="ys-image ys-image--4-3 aspect-radio_4-3">
+                            <img alt="imageContent.ImageAlt" src="/getmedia/c9b855fe-a539-4cc2-9af9-94979f097e53/Little-Haiti-Mache-Ayisyen-Building-1440x900.jpg?width=800&amp;resizemode=force">
+                        </picture>
+                </div>
+            <div class="gmc-promo-widget__container__content">
+                    <h2 class="ys-color-white">Who we are</h2>
+                <div class="ys-color-white p use-inline-links mb-40"><p>Diversity is in our DNA. It is part of our cultural fabric. It helps define our destination’s global brand and is a key differentiator for us. &nbsp;We thrive on our destination’s authenticity of people, neighborhoods and experiences and is what helps makes our community an ideal place to live, work, play and visit.</p></div>
+                <div class="gmc-promo-widget__container__content__button">
+                    <a aria-label="Promo button" class="ys-btn ys-btn--outline" href="/about-gmcvb/diversity-equity-and-inclusion">Learn more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+
+
+
+
+
+
+<section class="content">
+    <div class="gmc-promo-widget">
+        <div class="gmc-promo-widget__container mediaCase">
+                <div class="gmc-promo-widget__container__media mb-5">
+                        <picture class="ys-image ys-image--4-3 aspect-radio_4-3">
+                            <img alt="imageContent.ImageAlt" src="/getmedia/211bf708-930f-4edf-9b04-fecf56ed6e2a/art-event-default-1440x900.jpg?width=800&amp;resizemode=force">
+                        </picture>
+                </div>
+            <div class="gmc-promo-widget__container__content">
+                    <h2 class="ys-color-white">Art &amp; Culture in Miami</h2>
+                <div class="ys-color-white p use-inline-links mb-40"><p>Greater Miami &amp; Miami Beach is a world-class destination for arts and culture. You’ll find that Miami’s arts and culture scene is filled with an international flavor and vibrant energy that shines brighter than ever.</p></div>
+                <div class="gmc-promo-widget__container__content__button">
+                    <a aria-label="Promo button" class="ys-btn ys-btn--outline" href="/things-to-do/art-and-culture">Start Exploring</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+
+
+
+
+
+
+<section class="content">
+    <div class="gmc-promo-widget">
+        <div class="gmc-promo-widget__container mediaCase">
+                <div class="gmc-promo-widget__container__media mb-5">
+                        <picture class="ys-image ys-image--4-3 aspect-radio_4-3">
+                            <img alt="imageContent.ImageAlt" src="/getmedia/89194628-c199-454d-9745-1dffb552c8bf/shutterstock_1040031469_South_Beach_Lifeguard_stand_1440x900.jpg?width=800&amp;resizemode=force">
+                        </picture>
+                </div>
+            <div class="gmc-promo-widget__container__content">
+                    <p class="ys-subheading ys-color-accent-light">Miami Insider Email Sign-up</p>
+                <div class="ys-color-white p use-inline-links mb-40"><p>Sign up to receive our monthly newsletter and be the first to know about special offers, special Greater Miami &amp; Miami Beach events, and so much more.</p></div>
+                <div class="gmc-promo-widget__container__content__button">
+                    <a aria-label="Promo button" class="ys-btn ys-btn--outline" href="/forms/newsletter">Become an Insider</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+
+
+
+
+
+<section class="content">
+    <div class="ys-crowdriff">
+        <div class="ys-crowdriff__wrapper">
+            <div class="ys-text-banner px-0">
+                <p class="ys-media-widget__content__info__eyebrow__text ys-eyebrow"></p>
+                <h2>Get Social With Us</h2>
+                <p class="ys-media-widget__content__info__subheading__text ys-subheading">#miamiandmiamibeach</p>
+            </div>
+            <div class="ys-banner-border"></div>
+            <div class="ys-text-banner px-0 mb-30">
+                <div class="ys-text-banner__text">
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        <div id="frame"></div>
+    </div>
+</section>
+
+<script>
+    let script = document.createElement('script');
+    script.setAttribute('id', 'cr-init__4fc967f4722b0867');
+    script.setAttribute('src', 'https://starling.crowdriff.com/js/crowdriff.js');
+    script.setAttribute('async', 'async');
+    document.getElementById("frame").appendChild(script);
+</script>
+
+    
+
+
+
+
+
+
+
+<section class="content">
+    <div class="ys-secondary-widget">
+        <div class="ys-secondary-widget__content">
+            <p class="ys-eyebrow-hero"></p>
+            <h2></h2>
+            <p class="ys-subheading mb-4"></p>
+            <div class="ys-secondary-widget__content__copy use-inline-links p">
+                <style>section.content section.content:last-of-type{display:none;}</style>
+<link href="https://cdn.ampproject.org/amp-story-player-v0.css" rel="stylesheet" type="text/css" />
+<script async src="https://cdn.ampproject.org/amp-story-player-v0.js" ></script>
+<script src="https://js.makestories.io/player/StoryPlayer.js"></script>
+<script>let playergpm = msPlayer({root: "#ms-story-player7ef6ae2a6f76",widgetId: "3de5d1cc-1801-406b-80ed-7ef6ae2a6f76"});</script>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+</div>
+
+    </div>
+</section>
+
+    </main>
+
+    
+    <div class="footer-banner-wrapper">
+        <!-- GPT AdSlot 1 for Ad unit SECT_OTHER_300x250 -->
+        <div id='div-gpt-ad-1674853035952-0' class="footer-banner-300-250">
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1674853035952-0'); });
+            </script>
+        </div>
+        <!-- GPT AdSlot 2 for Ad unit SECT_OTHER_300x250 -->
+        <div id='div-gpt-ad-1674853035952-1' class="footer-banner-300-250">
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1674853035952-1'); });
+            </script>
+        </div>
+    </div>
+
+<div class="footer-container">
+    <div class="footer">
+        <div class="footer__content">
+            <a href="#" aria-label="back to top" class="ys-btn back mobile" type="button">BACK TO TOP</a>
+            <div class="hr mobile"></div>
+            <div class="contact">
+                <div class="contact__logo">
+                    <a href="/" class="d-block w-100 h-100" aria-label="Logo for the GREATER MIAMI CONVENTION & VISITORS BUREAU">
+                        <span class="d-block w-100 h-100 miami-footer-logo bg-white"></span>
+                    </a>
+                </div>
+                <div class="contact__item">
+                    <p class="name">GREATER MIAMI CONVENTION & VISITORS BUREAU</p>
+                </div>
+                <div class="contact__item location">
+                    <span class="ys-icon ys-icon-map-marker-solid pe-25 pb-25 me-1 ys-color-white"></span>
+                    <a href="https://goo.gl/maps/wnnfxYahcHr" class="text" target="_blank">
+                        <span class="address-line-one">701 Brickell Avenue, Suite 2700</span>
+                        <span class="address-line-two">Miami, FL 33131 USA</span>
+                    </a>
+                </div>
+                <div class="contact__item">
+                    <span class="ys-icon ys-icon-phone-solid pe-25 pb-25 me-1 ys-color-white"></span><a href="tel:1-305-539-3000" class="text">1-305-539-3000</a>
+                </div>
+                <div class="contact__item">
+                    <span class="ys-icon ys-icon-phone-solid pe-25 pb-25 me-1 ys-color-white"></span><a href="tel:1-800-933-8448" class="text">1-800-933-8448</a>
+                </div>
+                <div class="contact__item">
+                    <span class="ys-icon ys-icon-envelope pe-25 pb-25 me-1 ys-color-white"></span><a href="/forms/contact-us" class="text">Contact Us</a>
+                </div>
+            </div>
+            <div class="links-social">
+                <div class="links">
+                        <div class="links__item">
+                            <a class="item" href="https://www.miamiandbeaches.com/about-gmcvb"><p class="item__text">About GMCVB</p></a>
+                        </div>
+                        <div class="links__item">
+                            <a class="item" href="/about-gmcvb/accessibility-statement"><p class="item__text">Accessibility Statement</p></a>
+                        </div>
+                        <div class="links__item">
+                            <a class="item" href="https://www.miamiandbeaches.com/about-gmcvb/gmcvb-jobs"><p class="item__text">Employment at GMCVB</p></a>
+                        </div>
+                        <div class="links__item">
+                            <a class="item" href="/about-gmcvb/website-privacy-policy-cookies-and-terms"><p class="item__text">Privacy Policy</p></a>
+                        </div>
+                </div>
+                <div class="social">
+                    <button id="topDesktop" tabindex="0" aria-label="back to top" class="ys-btn ys-btn--full back">BACK TO TOP</button>
+                    <button onclick="toggleNewsletterModalPopup('footer')" tabindex="0" class="ys-btn ys-btn--full newsletter">SIGN-UP FOR OUR NEWSLETTER</button>
+                    <div class="social__item">
+                        <p class="name">CONNECT WITH US</p>
+                    </div>
+                    <div class="social__icons">
+                        <button onclick="window.open('https://www.instagram.com/visitmiami', '_blank', 'noopener');" aria-label="Visit our Instagram page" class="d-inline-block ys-btn ys-btn-circle-icon ys-btn--social bg-transparent ys-btn-circle-icon--center-out">
+                            <span class="ys-icon bg-white ys-icon-instagram pe-15 pb-1 pt-1 z-1 position-relative"></span>
+                        </button>
+                        <button onclick="window.open('https://www.facebook.com/visitmiami', '_blank', 'noopener');" aria-label="Visit our Facebook page" class="d-inline-block ys-btn ys-btn-circle-icon ys-btn--social bg-transparent ys-btn-circle-icon--center-out">
+                            <span class="ys-icon bg-white ys-icon-facebook-f pe-15 pb-1 pt-1 z-1 position-relative"></span>
+                        </button>
+                        <button onclick="window.open('https://twitter.com/visitmiami', '_blank', 'noopener');" aria-label="Visit our Twitter page" class="d-inline-block ys-btn ys-btn-circle-icon ys-btn--social bg-transparent ys-btn-circle-icon--center-out">
+                            <span class="ys-icon bg-white ys-icon-twitter pe-15 pb-1 pt-1 z-1 position-relative"></span>
+                        </button>
+                        <button onclick="window.open('https://www.youtube.com/user/Miamiandthebeaches', '_blank', 'noopener');" aria-label="Visit our Youtube page" class="d-inline-block ys-btn ys-btn-circle-icon ys-btn--social bg-transparent ys-btn-circle-icon--center-out">
+                            <span class="ys-icon bg-white ys-icon-youtube pe-15 pb-1 pt-1 z-1 position-relative"></span>
+                        </button>
+                        <button onclick="window.open('https://www.tiktok.com/@visitmiami', '_blank', 'noopener');" aria-label="Visit our TikTok page" class="d-inline-block ys-btn ys-btn-circle-icon ys-btn--social bg-transparent ys-btn-circle-icon--center-out">
+                            <span class="ys-icon bg-white ys-icon-tiktok pe-15 pb-1 pt-1 z-1 position-relative"></span>
+                        </button>
+                        <button onclick="window.open('https://www.linkedin.com/company/greatermiamiconvention&amp;visitorsbureau', '_blank', 'noopener');" aria-label="Visit our LinkedIn page" class="d-inline-block ys-btn ys-btn-circle-icon ys-btn--social bg-transparent ys-btn-circle-icon--center-out">
+                            <span class="ys-icon bg-white ys-icon-linkedin-in pe-15 pb-1 pt-1 z-1 position-relative"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer__copyright">
+            <div class="copyright-text">
+                <p class="text">© 2023 Official website Greater Miami Convention & Visitors Bureau. All rights reserved.</p>
+            </div>
+            <div class="partners">
+                <div class="partners__item">
+                    <a class="partner" href="https://www.visittheusa.com/" target="_blank" aria-label="Visit The USA">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="41.485" viewBox="0 0 76 41.485">
+                            <defs>
+                                <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 458 250">
+                                    <image width="458" height="250" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcoAAAD6CAYAAAAhkQfFAAAACXBIWXMAAC4jAAAuIwF4pT92AAAGyGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgNzkuMTY0NDYwLCAyMDIwLzA1LzEyLTE2OjA0OjE3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDIwLTAxLTIwVDEwOjU4OjU5LTA1OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAyMC0xMC0xNlQwOTo0NjoxMS0wNjowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAyMC0xMC0xNlQwOTo0NjoxMS0wNjowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoxODNlYTU4Yy05Yzg0LTQzMGUtYTRhMS1hNDZjZjk1MzM2NDgiIHhtcE1NOkRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDo0ZTlmYTIzMS0xZmE5LTljNGItYTk3MC0xMjIxZDhiYmRjOTgiIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDplNWJlZGM2ZS1jM2NmLTJlNGItODkyMC1hOGFmYjhjMjgzMGEiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmU1YmVkYzZlLWMzY2YtMmU0Yi04OTIwLWE4YWZiOGMyODMwYSIgc3RFdnQ6d2hlbj0iMjAyMC0wMS0yMFQxMDo1ODo1OS0wNTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDozZGViNjRkMi04YWNjLTQ0ODktYjMyNy0yMzliYjNlMmVjZTYiIHN0RXZ0OndoZW49IjIwMjAtMTAtMTZUMDk6NDY6MTEtMDY6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyMS4yIChNYWNpbnRvc2gpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoxODNlYTU4Yy05Yzg0LTQzMGUtYTRhMS1hNDZjZjk1MzM2NDgiIHN0RXZ0OndoZW49IjIwMjAtMTAtMTZUMDk6NDY6MTEtMDY6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyMS4yIChNYWNpbnRvc2gpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsuC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" />
+                                </pattern>
+                            </defs>
+                            <rect id="image" width="76" height="41.485" fill="url(#pattern)" />
+                        </svg>
+                    </a>
+                </div>
+                <div class="partners__item">
+                    <a class="partner" href="https://www.visitflorida.com" target="_blank" aria-label="Visit Florida">
+                        <svg id="visit-florida-2020" xmlns="http://www.w3.org/2000/svg" width="120" height="18.166" viewBox="0 0 120 18.166">
+                            <path id="Path_2337" data-name="Path 2337" d="M126.915,1.7H117.8V19.188h3.879V12h5.427V8.5h-5.427V5.2h6.126V1.7Z" transform="translate(-92.829 -1.34)" fill="#fff" />
+                            <path id="Path_2338" data-name="Path 2338" d="M172.7,1.3V18.83h10.387l.636-3.5h-7.144V1.3Z" transform="translate(-136.092 -1.024)" fill="#fff" />
+                            <path id="Path_2339" data-name="Path 2339" d="M233.715,0A8.852,8.852,0,0,0,224.6,8.988c0,5.236,3.794,9.179,8.818,9.179A8.586,8.586,0,0,0,242.406,9.2c0-5.236-3.731-9.2-8.691-9.2m.064,14.457c-2.946,0-5.066-2.438-5.066-5.808,0-3.01,1.865-5.024,4.642-5.024,2.8,0,5,2.565,5,5.829,0,3.01-1.844,5-4.579,5" transform="translate(-176.99)" fill="#fff" />
+                            <path id="Path_2340" data-name="Path 2340" d="M326.224,11.132a.922.922,0,0,0-.106-.127,5.086,5.086,0,0,0,2.734-4.621c0-3.413-2.565-5.384-7.059-5.384a28.66,28.66,0,0,0-3.688.254l-.806.085v17.34h3.858V12.15H322.3c.466.678,4.473,6.486,4.473,6.486h4.685ZM323.3,8.8h-2.12V4.519c.4-.021.827-.064.827-.064,2.629,0,2.925,1.293,2.925,2.268A1.919,1.919,0,0,1,323.3,8.8" transform="translate(-250.04 -0.788)" fill="#fff" />
+                            <rect id="Rectangle_484" data-name="Rectangle 484" width="3.858" height="17.573" transform="translate(82.438 0.275)" fill="#fff" />
+                            <path id="Path_2341" data-name="Path 2341" d="M428.991,3.859C427.274,2.248,424.6,1.4,421.3,1.4l-3.074.085-.466.021h0L416.4,1.57V18.761l.827.064a33.8,33.8,0,0,0,3.5.17,16.208,16.208,0,0,0,5.808-.827,8.265,8.265,0,0,0,5.066-7.928,8.863,8.863,0,0,0-2.607-6.38m-2.332,9.666c-.7,1.039-1.357,1.526-3.583,1.8a21.661,21.661,0,0,1-2.459.148s-.191-.021-.318-.021V4.94c.191,0,.445-.021.445-.021a9.387,9.387,0,0,1,4.049.763,5.241,5.241,0,0,1,2.756,4.833,5.4,5.4,0,0,1-.89,3.01" transform="translate(-328.133 -1.103)" fill="#fff" />
+                            <path id="Path_2342" data-name="Path 2342" d="M491,.1l-7.4,17.827h4.027s1.675-4.112,2.035-4.981h5.278c.361.89,2.014,4.981,2.014,4.981h4.134L493.754.1Zm1.971,9.5h-1.314s-.382,0-.657.021c.106-.254.275-.594.275-.594l.572-1.42s.212-.594.487-1.293c.233.615.488,1.293.488,1.293l.572,1.378.106.3s.106.212.148.318a6.46,6.46,0,0,1-.678,0" transform="translate(-381.088 -0.079)" fill="#fff" />
+                            <g id="Group_5347" data-name="Group 5347" transform="translate(0 0.339)">
+                                <path id="Path_2343" data-name="Path 2343" d="M6.338,2.2,3.582,9.28H2.777L0,2.2H.89L2.565,6.4c.3.806.382,1,.615,1.738h.042c.233-.742.3-.933.615-1.738L5.511,2.2Z" transform="translate(0 -2.073)" fill="#fff" />
+                                <rect id="Rectangle_485" data-name="Rectangle 485" width="0.911" height="7.122" transform="translate(7.334 0.085)" fill="#fff" />
+                                <path id="Path_2344" data-name="Path 2344" d="M48.146,3.084a2.145,2.145,0,0,0-1.42-.657,1.043,1.043,0,0,0-1.1,1.039,1.031,1.031,0,0,0,.466.848,6.575,6.575,0,0,0,1.208.615c1.081.509,1.463,1.017,1.463,1.929a2.1,2.1,0,0,1-2.268,2.077A3.2,3.2,0,0,1,44.5,8.214l.191-.975a2.674,2.674,0,0,0,1.908.89,1.158,1.158,0,0,0,1.229-1.187c0-.509-.3-.827-1.06-1.166L46.153,5.5a2.016,2.016,0,0,1-1.42-1.908A1.961,1.961,0,0,1,46.768,1.6a2.488,2.488,0,0,1,1.738.678Z" transform="translate(-35.067 -1.6)" fill="#fff" />
+                                <rect id="Rectangle_486" data-name="Rectangle 486" width="0.911" height="7.122" transform="translate(14.987 0.085)" fill="#fff" />
+                                <path id="Path_2345" data-name="Path 2345" d="M85.481,2v.869H83.3a.456.456,0,0,1-.233-.042.5.5,0,0,1,.042.254V9.122h-.933V3.081a.949.949,0,0,1,.021-.254.457.457,0,0,1-.233.042H79.8V2Z" transform="translate(-62.884 -1.915)" fill="#fff" />
+                            </g>
+                            <rect id="Rectangle_487" data-name="Rectangle 487" width="22.597" height="0.911" transform="translate(0 9.73)" fill="#fff" />
+                            <g id="Group_5348" data-name="Group 5348" transform="translate(115.464 0.064)">
+                                <path id="Path_2346" data-name="Path 2346" d="M545.717.618v1.8h-.36V.618H544.7V.3h1.654V.639h-.636Z" transform="translate(-544.7 -0.3)" fill="#fff" />
+                                <path id="Path_2347" data-name="Path 2347" d="M554.76,2.441h-.36V.3h.573l.636,1.335L556.244.3h.551V2.441h-.36V.766l-.742,1.484h-.212L554.739.766V2.441Z" transform="translate(-552.344 -0.3)" fill="#fff" />
+                            </g>
+                        </svg>
+                    </a>
+                </div>
+                <div class="partners__item">
+                    <a class="partner" href="https://www.tripadvisor.com/" target="_blank" aria-label="Trip Advisor">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="20.111" width="133.119"><g fill="#fff"><path d="M7.688 9.92a1.11 1.11 0 0 1-1.107 1.111A1.11 1.11 0 0 1 5.473 9.92c0-.61.495-1.104 1.108-1.104A1.106 1.106 0 0 1 7.688 9.92zm13.354 0a1.11 1.11 0 0 1-1.105 1.111 1.11 1.11 0 0 1-1.108-1.111c0-.61.493-1.104 1.108-1.104a1.104 1.104 0 0 1 1.105 1.104z" /><path d="M3.289 9.92a3.296 3.296 0 0 0 3.294 3.292A3.294 3.294 0 0 0 9.872 9.92a3.295 3.295 0 0 0-3.289-3.288A3.298 3.298 0 0 0 3.289 9.92zm1.135 0a2.158 2.158 0 1 1 2.161 2.16 2.161 2.161 0 0 1-2.161-2.16zm12.22 0a3.294 3.294 0 0 0 3.292 3.292 3.293 3.293 0 0 0 3.288-3.292 3.292 3.292 0 0 0-3.288-3.288 3.296 3.296 0 0 0-3.292 3.288zm1.135 0a2.16 2.16 0 0 1 2.159-2.155 2.157 2.157 0 0 1 0 4.315 2.158 2.158 0 0 1-2.159-2.16z" /><path d="M25.307 6.047c.312-1.337 1.304-2.676 1.304-2.676l-4.449-.003C19.667 1.757 16.638.903 13.281.903c-3.484 0-6.63.875-9.111 2.497L0 3.404s.98 1.323 1.297 2.651a6.606 6.606 0 0 0-1.293 3.93c0 3.673 2.99 6.661 6.665 6.661a6.654 6.654 0 0 0 5.196-2.5l1.419 2.125 1.43-2.143a6.657 6.657 0 0 0 2.446 1.932 6.636 6.636 0 0 0 5.1.201c3.448-1.275 5.218-5.119 3.943-8.562a6.62 6.62 0 0 0-.896-1.652zM13.28 2.067c2.395 0 4.557.433 6.467 1.289a6.61 6.61 0 0 0-5.85 3.863 6.644 6.644 0 0 0-.588 2.29 6.669 6.669 0 0 0-6.508-6.185c1.908-.815 4.101-1.257 6.479-1.257zm-2.208 10.894a5.32 5.32 0 0 1-4.405 2.341 5.327 5.327 0 0 1-5.321-5.317 5.326 5.326 0 0 1 5.321-5.32 5.325 5.325 0 0 1 5.32 5.32c0 .179-.035.348-.053.521-.089.9-.378 1.742-.862 2.455zm10.721 2.038a5.292 5.292 0 0 1-6.276-2.074 5.214 5.214 0 0 1-.556-1.076 5.322 5.322 0 0 1-.287-1.345 5.266 5.266 0 0 1 .443-2.722 5.298 5.298 0 0 1 2.991-2.767 5.328 5.328 0 0 1 6.834 3.149 5.33 5.33 0 0 1-3.149 6.835zM95.578 1.968a1.288 1.288 0 0 0 2.574 0c0-.709-.576-1.288-1.287-1.288a1.29 1.29 0 0 0-1.287 1.288zm-61.107-.091l-1.951.674v2.545h-2.162v1.707h2.103v5.479c0 2.604.887 3.672 3.067 3.672.553 0 1.081-.068 1.611-.213l.086-.021-.024-1.77-.149.057c-.429.148-.764.221-1.023.221-1.024 0-1.404-.576-1.404-2.131V6.805h2.495V5.096h-2.495V1.827l-.154.05zm6.744 4.948V5.096h-1.979v10.67H41.4V10.41c0-2.245.943-3.482 2.653-3.482.248 0 .488.037.781.12l.14.04.071-2.106-.931-.071c-1.254-.002-2.267.676-2.899 1.914zm15.442-1.98c-1.485 0-2.733.703-3.566 1.982V5.094h-1.978v15.017h2.165V14.29c.781 1.062 1.901 1.646 3.295 1.646 2.735 0 4.502-2.244 4.502-5.71.001-3.219-1.776-5.381-4.418-5.381zm-.604 9.34c-1.712 0-2.775-1.463-2.775-3.814 0-2.269 1.122-3.735 2.858-3.735 1.673 0 2.673 1.39 2.673 3.713 0 2.365-1.057 3.836-2.756 3.836zM67.4 4.845c-1.323 0-2.482.25-3.545.761l-.066.032.023 1.847.17-.096c1.016-.568 1.978-.858 2.854-.858 1.567 0 2.467.898 2.467 2.468v.091h-1.238c-3.562 0-5.522 1.29-5.522 3.63 0 1.879 1.415 3.192 3.44 3.192 1.49 0 2.643-.586 3.465-1.688v1.541h1.955V9.308c-.001-2.96-1.347-4.463-4.003-4.463zm1.9 6.416c0 1.838-1.106 3.027-2.817 3.027-1.048 0-1.779-.689-1.779-1.674 0-1.295 1.238-2.006 3.485-2.006h1.113c-.002.167-.002.653-.002.653zM80.592 0v6.543c-.798-1.109-1.908-1.697-3.334-1.697-2.647 0-4.426 2.18-4.426 5.419 0 3.337 1.804 5.667 4.382 5.667 1.527 0 2.718-.676 3.544-1.991v1.825h2V0h-2.166zm-2.817 14.142c-1.649 0-2.673-1.438-2.673-3.752 0-2.317 1.033-3.815 2.634-3.815 1.787 0 2.854 1.425 2.854 3.815.002 2.283-1.1 3.752-2.815 3.752zm14.651-9.047l-3.068 6.162-2.836-6.162h-2.438l5.229 10.671 5.371-10.671h-2.258zm5.408 0h-2.049v10.671h2.166V5.095h-.117zm2.654 2.736c0 1.501 1.031 2.291 2.936 3.223 1.201.59 1.828.938 1.828 1.77 0 .853-.77 1.404-1.967 1.404-.846 0-1.785-.238-2.715-.695l-.158-.078-.07 1.881.072.027a7.487 7.487 0 0 0 2.789.527c2.646 0 4.355-1.261 4.355-3.213 0-1.627-1.082-2.453-2.957-3.328-1.373-.645-1.949-1.021-1.949-1.705 0-.648.641-1.07 1.631-1.07.895 0 1.768.199 2.594.593l.156.072.094-1.841-.086-.025a9.265 9.265 0 0 0-2.633-.4c-2.344-.003-3.92 1.147-3.92 2.858zm13.821-2.986c-3.252 0-5.271 2.141-5.271 5.585 0 3.445 2.021 5.583 5.271 5.583 3.267 0 5.295-2.139 5.295-5.583 0-3.443-2.03-5.585-5.295-5.585zm.019 9.402c-1.797 0-3.004-1.542-3.004-3.838 0-2.308 1.207-3.856 3.004-3.856 1.826 0 3.006 1.515 3.006 3.856 0 2.332-1.178 3.838-3.006 3.838zm9.268-7.422V5.096h-1.979v10.67h2.164V10.41c0-2.245.938-3.482 2.65-3.482.246 0 .485.037.772.12l.146.04.067-2.106-.927-.071c-1.249-.002-2.26.676-2.893 1.914zm-74.695-1.73h-2.048v10.671h2.164V5.095h-.116zm-2.258-3.127A1.287 1.287 0 1 0 47.93.68a1.29 1.29 0 0 0-1.287 1.288zm85.935 2.655c.355.359.541.837.541 1.351 0 .537-.201 1.018-.57 1.372a1.966 1.966 0 0 1-1.361.562c-.521 0-1-.205-1.373-.59a1.928 1.928 0 0 1-.557-1.345c0-.514.205-1.012.588-1.39a1.88 1.88 0 0 1 1.342-.544c.533 0 1.019.202 1.39.584zm-2.492.212a1.598 1.598 0 0 0-.479 1.139c0 .414.154.794.453 1.098.299.312.696.481 1.121.481.414 0 .811-.159 1.118-.457.302-.29.468-.688.468-1.123 0-.425-.154-.811-.447-1.107a1.554 1.554 0 0 0-1.131-.477c-.429 0-.804.153-1.103.446zm1.137.036c.605 0 .916.219.916.616 0 .273-.162.485-.451.572l.476.931h-.644l-.397-.84h-.168v.84h-.584V4.87l.852.001zm-.272.934h.203c.26 0 .385-.091.385-.273 0-.208-.131-.293-.416-.293h-.172v.566z" /></g></svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var backDesktop = document.getElementById("topDesktop");
+    var firstFocusable = document.getElementsByTagName("a")[0];
+
+    backDesktop.addEventListener("keypress", function (event) {
+        if (event.key === "Enter") {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+            setTimeout(() => {
+                firstFocusable.focus();
+            }, 300);
+        }
+    });
+
+    backDesktop.addEventListener("click", function (event) {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        setTimeout(() => {
+            firstFocusable.focus();
+        }, 300);
+    });
+</script>
+<div class="ys-newsletter-widget d-flex mx-auto justify-content-center py-40 collapse" id="newsletterFooter">
+    <button class="btn close-btn" onclick="toggleNewsletterModalPopup('footer')" tabindex="0"><span class="ys-icon ys-icon-close-solid"></span></button>
+    <div class="success" id="newsletterFormSuccess">
+        <h2>Thank you for your submission !</h2>
+    </div>
+    <div class="replace" id="newsletterFormWrapper">
+        <div class="newsletter-container d-grid">
+            <div class="media">
+                <div class="ys-image ys-image--4-3">
+                    <img src="/getmedia/b02b6b5b-55a4-4a09-bb7b-763fad44e895/CrandonParkPalmandBeach-1440x900.jpg?height=360" alt="Miami Beach" role="presentation">
+                </div>
+            </div>
+            <form method="POST" id="newsletterFormBody">
+                <div class="form mw-100 py-20 px-20">
+                    <h3 class="heading">STAY IN THE KNOW WITH ALL THINGS GREATER MIAMI & MIAMI BEACH</h3>
+                    <div class="ys-form-control">
+                        <input aria-label="Email input" class="ys-form-control__input newsletter-input" name="email" id="email" placeholder="Email" type="email" required>
+                    </div>
+                    <div class="ys-form-control">
+                        <input aria-label="Zip code input" class="ys-form-control__input newsletter-input" name="zipcode" id="zipcode" placeholder="Zip/Postal code" type="text" required>
+                    </div>
+                    <div class="ys-form-check mb-20 checkbox-submit">
+                        <button type="submit" id="submitButton" aria-label="Submit button" class="ys-btn ys-btn--sm mt-15 mb-20">Submit</button>
+                        <span class="d-block">By signing up, you are agreeing to our <a href="/about-gmcvb/website-privacy-policy-cookies-and-terms">Privacy Policy</a>. We won’t share or sell your email address. You may unsubscribe at any time.</span>
+                    </div>
+                </div>
+            <input name="__RequestVerificationToken" type="hidden" value="CfDJ8Ji_AN29_UlFiH1pO-GqfntqMFHkfnS9szFS1pF0t2tfXHYj5Q1jdkSSa370uLSqgdoqhBJCfNy6z99PuHibJD0vMqxXL7Op3okjpkks7ZRpu7Cv5TgCWIFG3MGX1RbGohvs2uqU-z4wUOLzYD9R1W8" /></form>
+        </div>
+    </div>
+</div>
+<script>
+
+    const newsletterFormBody = document.querySelector("#newsletterFormBody"); //footer form
+    const newsletterFooter = document.querySelector("#newsletterFooter"); // footer wrapper
+    const newsletterFormWrapper = document.querySelector("#newsletterFormWrapper"); //footer form wrapper
+    const successMessageF = document.querySelector("#newsletterFormSuccess"); // footer success area
+
+    newsletterFormBody?.addEventListener("submit", (e) => {
+        newsletterSubmitForm(e, 'footer');
+    });
+
+    const setNewsletterCookie = () => {
+        const date = new Date();
+        date.setMonth(date.getMonth() + 1);
+        document.cookie = `newsletter_submit=false; expires=${date.toUTCString()}`;
+    };
+
+    const toggleNewsletterModalPopup = (location) => {
+        if (location === 'popup') {
+            newsletterPopupModal?.classList.toggle("show");
+            setNewsletterCookie();
+        } else if (location === 'footer') {
+            newsletterFooter?.classList.toggle("show");
+        }
+    };
+
+    const newsletterSubmitForm = async (e, formType) => {
+        e.preventDefault();
+        const data = new FormData(e.target);
+        const value = Object.fromEntries(data.entries());
+
+        try {
+            const response = await fetch('/api/forms/consumer-newsletter', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(value),
+                type: 'html'
+            });
+
+            if (response.status === 200) {
+                if (formType === 'popup') {
+                    newsletterPopup?.classList.add("d-none");
+                    successSection?.classList.remove("d-none");
+                    if (successMessagePopup)
+                        successMessagePopup.innerHTML = `<div class="text-center mb-5 fs-18">Your email, ${value.email}, has been subscribed to our newsletter.</div>`;
+                } else if (formType === 'footer') {
+                    newsletterFormWrapper?.classList.add('d-none');
+                    newsletterFormBody?.classList.add('d-none');
+                    successMessageF?.classList.add('d-block');
+                } else {
+                    inlineNewsletter?.classList.add("d-none");
+                    inlineSuccessSection?.classList.remove("d-none");
+                    if (inlineSuccessMessage)
+                        inlineSuccessMessage.innerHTML = `<div class="text-center mb-5 fs-18">Your email, ${value.email}, has been subscribed to our newsletter.</div>`;
+                }
+                setNewsletterCookie();
+            }
+        } catch (error) {
+            const errorSection = document.querySelectorAll(".general-error");
+            errorSection?.forEach((section) => section.classList.add('d-block'));
+        }
+    };
+</script>
+
+
+    
+
+    <section class="content">
+        <div class="ys-newsletter mb-40 me-40" id="newsletterPopUpModal">
+            <div class="ys-newsletter__container">
+                <div class="container-form px-20 px-sm-30 py-15 d-flex flex-column align-items-center">
+                    <div class="avatar mb-40">
+                        <button class="btn close-btn" onclick="toggleNewsletterModalPopup('popup')" tabindex="0"><span class="ys-icon ys-icon-close-solid"></span></button>
+                        <picture class="ys-image">
+                            <img src="https://images.miamiandbeaches.com/crm/simpleview/image/upload/h_360/crm/miamifl/CityOfMiamiBeach_2B4867CD-5056-A36A-0B06BD1F65D0FBA7-2b4862e65056a36_2b486f7e-5056-a36a-0b236ac9d9cdc4fc.jpg" alt="Miami Beach" role="presentation">
+                        </picture>
+                    </div>
+                    <div class="form d-flex flex-column">
+                        <form id="newsletterPopUp" method="POST">
+                            <h4>STAY IN THE KNOW WITH ALL THINGS GREATER MIAMI & MIAMI BEACH</h4>
+                            <div class="ys-form-control">
+                                <input aria-label="Email input" class="ys-form-control__input newsletter-input" name="email" id="email" placeholder="Email" type="email" required>
+                            </div>
+                            <div class="ys-form-control">
+                                <input aria-label="Zip code input" class="ys-form-control__input newsletter-input" name="zipcode" id="zipcode" placeholder="Zip/Postal code" type="text" required>
+                            </div>
+                            <div class="d-flex align-items-center mt-4 flex-column">
+                                <button type="submit" id="submitButtonPopup" aria-label="Submit button" class="ys-btn ys-btn--sm mb-20">Submit</button>
+                                <span class="newsletter-disclaimer">By signing up, you are agreeing to our <a href="/about-gmcvb/website-privacy-policy-cookies-and-terms">Privacy Policy</a>. We won’t share or sell your email address. You may unsubscribe at any time.</span>
+                            </div>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8Ji_AN29_UlFiH1pO-GqfntqMFHkfnS9szFS1pF0t2tfXHYj5Q1jdkSSa370uLSqgdoqhBJCfNy6z99PuHibJD0vMqxXL7Op3okjpkks7ZRpu7Cv5TgCWIFG3MGX1RbGohvs2uqU-z4wUOLzYD9R1W8" /></form>
+                        <div class="d-flex d-none align-items-center flex-column" id="successSection">
+                            <h4 class="fs-24 mb-3 text-center">THANK YOU!</h4>
+                            <label id="successMessage" class="ys-form-check__label"></label>
+                            <button type="button" class="ys-btn ys-btn--sm mb-5" onclick="toggleNewsletterModalPopup('popup')">CLOSE</button>
+                            <span class="newsletter-disclaimer">By signing up, you are agreeing to our <a href="/about-gmcvb/website-privacy-policy-cookies-and-terms">Privacy Policy</a>. We won’t share or sell your email address. You may unsubscribe at any time.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>
+        /* Items Specific to Popup */
+        /* Remaining funcitons are in NewsletterSignupPartial */
+
+        const newsletterPopupModal = document.querySelector("#newsletterPopUpModal"); // popup modal
+        const newsletterPopup = document.querySelector("#newsletterPopUp"); //popup form
+        const successMessagePopup = document.querySelector("#successMessage"); // pupup success message
+        const successSectionPopup = document.querySelector("#successSection"); //popup success area
+        var collapseTimeout = '';
+
+        function cancelTimeout() {
+            clearTimeout(collapseTimeout);
+        }
+
+        collapseTimeout = setTimeout(() => {
+            newsletterPopupModal.classList.toggle("show");
+        }, 4000);
+
+        newsletterPopupModal?.addEventListener("focus", cancelTimeout);
+
+        newsletterPopup?.addEventListener("submit", (e) => {
+            newsletterSubmitForm(e, 'popup');
+        });
+
+    </script>
+
+
+
+    
+</body>
+</html>
